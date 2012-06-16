@@ -40,7 +40,7 @@ public enum WarpPoint {
     EXECUTIONER14(-252.5, 65, 435.5, "Executioner #14"),
     EXECUTIONER15(-254.5, 65, 425.5, "Executioner #15"),
     EXECUTIONER16(-254.5, 65, 435.5, "Executioner #16"),
-    EXECUTION_STAND(-246, 65, 423.5, "Execution Stand"),
+    EXECUTION_STAND(-246, 65, 429.0, "Execution Stand"),
     TOWNSQUARE(-224.4, 65, 318.5, "Town Square"),
     OBSERVATORY(-251.5, 87.6, 332.5, "Observation Cube");
 
