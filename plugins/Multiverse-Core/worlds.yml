@@ -1,0 +1,141 @@
+worlds:
+  world:
+    seed: -7842376094457220718
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: false
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: false
+    spawn:
+      x: 0.0
+      y: 65.0
+      z: 0.0
+      pitch: 0.0
+      yaw: 0.0
+      world: world
+    autoload: true
+    bedrespawn: true
+  world_nether:
+    seed: 3222298769732298896
+    environment: NETHER
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 8.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: false
+    spawn:
+      x: 2.5
+      y: 64.0
+      z: -0.5
+      pitch: 0.0
+      yaw: 0.0
+      world: world_nether
+    autoload: true
+    bedrespawn: true
+  world_the_end:
+    seed: 3222298769732298896
+    environment: THE_END
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: false
+    spawn:
+      x: 0.5
+      y: 58.0
+      z: 1.5
+      pitch: 0.0
+      yaw: 0.0
+      world: world_the_end
+    autoload: true
+    bedrespawn: true
+  werewolf:
+    seed: 4134474743919536121
+    environment: NORMAL
+    type: NORMAL
+    hidden: true
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: false
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: false
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: false
+    autoheal: false
+    adjustspawn: false
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: false
+    spawn:
+      x: -251.5
+      y: 88.0
+      z: 332.0
+      pitch: 0.0
+      yaw: 0.0
+      world: werewolf
+    autoload: true
+    bedrespawn: false
