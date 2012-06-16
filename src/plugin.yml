@@ -1,0 +1,31 @@
+name: Werewolf
+main: com.zephyrr.werewolf.Werewolf
+version: 1.0.0
+depend: [Multiverse-Core]
+author: PhoenixFlight
+commands:
+  wolf:
+    description: Regulates all of the Werewolf commands.
+    usage: /wolf HELP
+    permissions: 
+    permissions-message: 
+  vote:
+    description: Vote for who you wish to lynch!
+    usage: /vote <TARGET_ID>
+    permissions:
+    permissions-message:
+  listPlayers:
+    description: View the list of the players and their ID numbers.
+    usage: /listPlayers
+    permissions:
+    permissions-message:
+  vision:
+    description: See the role of another player each night.
+    usage: /vision <TARGET_ID>
+    permissions:
+    permissions-message:
+  priest:
+    description: Protect another player at night.
+    usage: /priest <TARGET_ID>
+    permissions:
+    permissions-message:
